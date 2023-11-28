@@ -49,6 +49,8 @@ class Solution {
 }
 // Time complexity: O(N);
 // Space Complexity: O(N);
+
+
 /*How the Optimized Solution Works
 Dry Run:
 Let's illustrate the optimized solution with a dry run. Consider the array nums = [2, 7, 11, 15] and a target of 9. The HashMap numToIndex is used to store the complement of each element as we iterate through the array.
